@@ -26,4 +26,4 @@ Bot, aşağıdaki 10 komutu desteklemektedir:
 
 ## 📧 İletişim
 
-Herhangi bir sorunuz veya öneriniz varsa, benimle Discord üzerinden iletişime geçebilirsiniz: **arilens0866**
+Herhangi bir sorunuz veya öneriniz varsa, benimle Discord üzerinden iletişime geçebilirsiniz: **arilensofficial**
